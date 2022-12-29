@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things programming.
 - 🌱 I’m currently learning Rust / Golang
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me ...
+- 📫 How to reach me: Send me a message!
 
 <!---
 ExtremelyRyan/ExtremelyRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
